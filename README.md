@@ -1,4 +1,4 @@
-# AI Website Builder 🚀
+# AI Website Builder 
 
 A powerful AI-powered website builder that generates beautiful, responsive websites from natural language prompts. Built with React, Tailwind CSS, and multiple AI providers.
 
